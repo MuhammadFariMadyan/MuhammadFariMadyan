@@ -11,4 +11,4 @@ Backend Developer from Bandar Lampung, Lampung - Indonesia.
 - Backend Developer.
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-[![Visitors](https://hits.dwyl.com/MuhammadFariMadyan/MuhammadFariMadyan.svg)](https://hits.dwyl.com/MuhammadFariMadyan/MuhammadFariMadyan)
+[![HitCount](http://hits.dwyl.com/MuhammadFariMadyan/MuhammadFariMadyan.svg)](http://hits.dwyl.com/MuhammadFariMadyan/MuhammadFariMadyan)
