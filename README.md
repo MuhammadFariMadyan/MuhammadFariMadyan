@@ -9,6 +9,3 @@ Backend Developer from Bandar Lampung, Lampung - Indonesia.
 ### Current Roles :
 - Content Engineer.
 - Backend Developer.
-
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-[![HitCount](http://hits.dwyl.com/MuhammadFariMadyan/MuhammadFariMadyan.svg)](http://hits.dwyl.com/MuhammadFariMadyan/MuhammadFariMadyan)
