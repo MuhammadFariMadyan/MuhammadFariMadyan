@@ -18,7 +18,7 @@ Currently working in [Radar Digital Development](https://www.linkedin.com/compan
 - Clean Code
 - Content Creator
 - Self Improvement
-## 🚀 How to reach me:
+### 🚀 How to reach me:
 - Email: [id.mfarim@gmail.com](id.mfarim@gmail.com)
 - LinkedIn: [MFariM](https://www.linkedin.com/in/mfarim)
 - linktree: [@mfarim](https://linktr.ee/farimadyan)
