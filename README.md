@@ -2,7 +2,7 @@
 ## 👋 Hello
 My full name is Muhammad Fari Madyan, so you can call me "Fari". Very passionate about modern *mobile and web technology* using JavaScript/TypeScript.
 ## 💼 Career
-Currently working in [Radar Digital Development](https://www.linkedin.com/company/radar-digital-development) as *Fullstack Javascript Programmer*.
+Currently working in [Keller Williams Realty, Inc.](https://www.linkedin.com/company/keller-williams-realty-inc/mycompany/) as a *Fullstack Engineer*.
 
 ## 💻 Experiences
 - JavaScript/TypeScript
