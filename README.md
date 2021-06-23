@@ -6,11 +6,13 @@ Currently working in [Keller Williams Realty, Inc.](https://www.linkedin.com/com
 
 ## 💻 Experiences
 - JavaScript/TypeScript
+- PHP
 - GIT (VCS)
 - JavaScript Ecosystem & Environment (*Real-time, Asynchronous/Concurrent Processing*)
 - React.js (*Hooks, Context API, Redux, Redux Saga*)
 - Next.js
 - Express.js
+- Lumen, Laravel
 - Docker, Netlify, Vercel, Firebase, NoSQL, SQL, Heroku, AWS.
 - JIRA, Trello, AtiveCollab
 ### 🔍 Currently Learning:
