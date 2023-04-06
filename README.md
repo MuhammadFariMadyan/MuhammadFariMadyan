@@ -1,7 +1,7 @@
 ## 👋 Hello
-My full name is Muhammad Fari Madyan, so you can call me "Fari". Very passionate about modern *mobile and web technology*.
+My full name is Muhammad Fari Madyan, so you can call me "Fari". Very passionate about modern *mobile and web technology*
 ## 💼 Career
-Currently working full-time remotely at [Keller Williams Realty, Inc.](https://www.linkedin.com/company/keller-williams-realty-inc/mycompany/) as a *Full stack Engineer*.
+Currently working as a *Freelance Web Developer*
 
 ## 💻 Experiences
 - JavaScript/TypeScript, PHP
