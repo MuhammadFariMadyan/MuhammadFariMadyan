@@ -10,6 +10,7 @@ Currently working as a *Freelance Web Developer*
 - React.js (*Hooks, Context API, Redux, Redux Saga*)
 - Next.js, Express.js, Nest.js, Lumen, Laravel, Cloud Functions
 - Lightstep, Datadog
+- Payment Gateway Midtrans, Xendit.
 - Docker, Netlify, Vercel, Firebase, NoSQL, SQL, Heroku, AWS, GCP
 - JIRA, Trello, AtiveCollab, Scrum
 ### 🔍 Currently Learning:
@@ -25,4 +26,4 @@ Currently working as a *Freelance Web Developer*
 
 ---
 
-© 2022 — Muhammad Fari Madyan
+© 2023 — Muhammad Fari Madyan
